@@ -4,4 +4,4 @@ To begin, connect to a local Apache Derby database and create the necessary tabl
 
 Deploy to Payara Micro using the following after building and compiling:
 
-java -jar payara-micro-4.1.2.174.jar --deploy SimpleService-1.0.war
+java -jar payara-micro-<<version>>.jar --deploy SimpleService-1.0.war
